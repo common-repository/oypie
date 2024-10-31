@@ -1,0 +1,246 @@
+.oypie-home{
+    background: -webkit-linear-gradient(top right, #00aedd, #cadb34);
+    background: linear-gradient(to top right, #00aedd, #cadb34);
+    position:relative;
+    overflow:auto;
+    margin:16px 0;
+    padding:20px 20px;
+    border:1px solid #e5e5e5;
+    -webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);
+    box-shadow:0 1px 1px rgba(0,0,0,.04);
+    color:#FFF;
+    font-size:13px;
+    line-height:2.1em;
+    border-radius: 10px;
+    z-index: 100;
+}
+
+
+
+
+.oypie-home h1{
+    margin:0 0 20px 0;
+    font-size:4em;
+    font-weight:300;
+    line-height:1.2;
+    color: #fff;
+}
+.oypie-home h2{
+    margin:0 0 20px 0;
+    font-size:3em;
+    font-weight:300;
+    line-height:1.2;
+    color: #fff;
+}
+.oypie-home h3{
+    font-size:1.5em;
+    font-weight: 300;
+    margin: 0;
+    color: #fff;
+}
+.oypie-home li{
+    font-size:14px
+}
+.oypie-home p{
+    font-size:1em;
+    font-weight: 300;
+    line-height: 1.5em;
+    color:#fff;
+    padding: 0 0 20px 0;
+}
+.oypie-home a{
+    text-decoration:none
+}.oypie-home .about-description{
+    font-size:16px;
+    margin:0
+}
+
+.oypie-home .button.button-hero{
+    margin:15px 13px 3px 0;
+    padding:12px 36px;
+    height:auto;
+    line-height:1.4285714;
+    white-space:normal
+}
+.oypie-home .oypie-home-column-container{
+    clear:both;
+    position:relative
+}
+
+.oypie-home .oypie-home-column:nth-child(2){
+    width:20%;
+    min-width:200px;
+    float:right
+}
+.oypie-home .oypie-home-column{
+    width:40%;
+    min-width:300px;
+    float:left;
+}
+.oypie-home .oypie-home-column ul{
+    margin:.8em 1em 1em 0
+}
+.oypie-home .oypie-home-column li{
+    line-height:16px;
+    list-style-type:none;
+    padding:0 0 8px;
+    font-weight: 300;
+}
+
+.oypie-home .oypie-home-column li a{
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.oypie-home .oypie-home-column li a:before{
+    font-size: 12px;
+    padding-top: 2px;
+    padding-right: 5px;
+    font-family: 'dashicons';
+    content: '\f345 ';
+}
+
+.oypie-home .fb {
+    clear: both;
+}
+
+.oypie-home a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.oypie-home p.message {
+  font-size: 1.3em;
+  margin: 0 0 20px 0;
+}
+
+.oypie-title-count {
+  background: -webkit-linear-gradient(top right, #00aedd, #cadb34);
+  background: linear-gradient(to top right, #00aedd, #cadb34); 
+  color: #fff;
+}
+
+.oypie-postbox {
+  border-radius: 10px;
+}
+
+.oypie-postbox h2{
+    font-size:1.5em;
+    font-weight: 300;
+    margin: 0 0 15px 0;
+}
+
+.oypie-postbox h2{
+    font-size:1.5em !important;
+    font-weight: 300 !important;
+    margin: 0 0 15px 0 !important;
+}
+
+.oypie-postbox p{
+    font-size:1em;
+    font-weight: 300;
+    margin: 0 0 15px 0 !important;
+}
+
+
+.oypie-postbox table {
+          border-spacing: 0;
+          border-collapse: collapse;
+          width: 100%;
+          max-width: 100%;
+          margin-bottom: 20px;
+        }
+
+
+        .oypie-postbox td,
+        .oypie-postbox th {
+          padding: 0;
+        }
+        .oypie-postbox table > thead > tr > th,
+        .oypie-postbox table > tbody > tr > th,
+        .oypie-postbox table > tfoot > tr > th,
+        .oypie-postbox table > thead > tr > td,
+        .oypie-postbox table > tbody > tr > td,
+        .oypie-postbox table > tfoot > tr > td {
+          padding: 8px;
+          line-height: 1.42857143;
+          vertical-align: top;
+          border-top: 1px solid #ddd;
+          font-weight: 300;
+        }
+
+        .oypie-postbox .table > thead > tr > th {
+          vertical-align: bottom;
+          border-bottom: 2px solid #ddd;
+        }
+        .oypie-postbox .table > caption + thead > tr:first-child > th,
+        .oypie-postbox .table > colgroup + thead > tr:first-child > th,
+        .oypie-postbox .table > thead:first-child > tr:first-child > th,
+        .oypie-postbox .table > caption + thead > tr:first-child > td,
+        .oypie-postbox .table > colgroup + thead > tr:first-child > td,
+        .oypie-postbox   border-top: 0;
+        }
+        .oypie-postbox input[type="text"] {
+		  width: 100%;
+        }
+
+        .oypie-postbox tbody .code {
+            color: #BF0000;
+            font-family: Courier New;
+            text-align: left;
+        }
+
+        .oypie-postbox th {
+            text-align: left;
+        }
+
+.oypie-postbox table label {
+    font-weight: 400;
+}
+
+        .nvt {
+            color: #8A3333;
+            background: #FACACA;
+            text-align: center;
+        }
+
+        .left {
+            text-align: left;
+        }
+
+        .alert-message
+        {
+            background: #fff;
+            margin: 20px 0;
+            padding: 1px 1px 1px 5px;
+            border-left: 3px solid #eee;
+        }
+        .alert-message-success
+        {
+            border-color: #3c763d;
+            background: #dff0d8;
+        }
+        .alert-message-success b {
+            color: #3c763d;
+        }
+        .alert-message-warning
+        {
+            border-color: #f0ad4e;
+            background: #fcf8e3;
+        }
+        .alert-message-warning b {
+            color: #f0ad4e;
+        }
+        .alert-message-danger
+        {
+            border-color: #d9534f;
+            background: #FACACA;
+        }
+        .alert-message-danger b {
+            color: #d9534f;
+        }
+        .fb {
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
